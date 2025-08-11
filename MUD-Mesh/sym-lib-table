@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "E22-900M30S")(type "KiCad")(uri "${KIPRJMOD}/libraries/E22-900M30S/E22-900M30S.kicad_sym")(options "")(descr ""))
+  (lib (name "GT-U7_GPS-Module")(type "KiCad")(uri "${KIPRJMOD}/libraries/GT-U7_GPS-Module/GT-U7_GPS-Module.kicad_sym")(options "")(descr ""))
+)

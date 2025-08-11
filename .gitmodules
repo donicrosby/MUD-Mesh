@@ -1,0 +1,3 @@
+[submodule "MUD-Mesh/libraries/GT-U7_GPS-Module"]
+	path = MUD-Mesh/libraries/GT-U7_GPS-Module
+	url = https://github.com/Qeteshpony/GT-U7_GPS-Module.git
