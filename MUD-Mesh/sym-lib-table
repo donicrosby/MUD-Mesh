@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "E22-900M30S")(type "KiCad")(uri "${KIPRJMOD}/libraries/E22-900M30S/E22-900M30S.kicad_sym")(options "")(descr ""))
   (lib (name "GT-U7_GPS-Module")(type "KiCad")(uri "${KIPRJMOD}/libraries/GT-U7_GPS-Module/GT-U7_GPS-Module.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC4040EUFD_TRPBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/LTC4040EUFD_TRPBF/LTC4040EUFD_TRPBF.kicad_sym")(options "")(descr ""))
 )
